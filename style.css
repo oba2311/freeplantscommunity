@@ -73,9 +73,9 @@ img {
     table-layout: fixed;
   }
 
-  .samples table tr{
+  /* .samples table tr{
     line-height: 15%;
-  }
+  } */
   
   .samples table th, td {
     padding: 8px;
