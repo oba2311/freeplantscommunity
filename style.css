@@ -37,6 +37,7 @@ h1{
     border-radius: 3%;
     font-family: Helvetica, sans-serif, Arial;
     padding: 4%;
+    padding-bottom: 2%;
     background-color: rgba(0, 50, 50, .4);
     max-width: 50%;
     margin-left: auto;
@@ -72,5 +73,9 @@ table {
     left:auto;
     right: auto;
     text-align: center;
-    padding: 12%;
+    padding: 7%;
+}
+
+.footer{
+    padding: 3%;
 }
