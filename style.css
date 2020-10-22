@@ -37,3 +37,26 @@ h1{
     width: 100%;
     /* The width is the width of the web page */
   }
+
+img {
+    width: 90%;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    padding: 8px;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+  }
+  
+
+.samples{
+    left:auto;
+    right: auto;
+    text-align: center;
+    padding: 12%;
+}
