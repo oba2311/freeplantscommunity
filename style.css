@@ -11,7 +11,7 @@ html{
     padding: 1%;
     background-color: rgba(0, 50, 50, .8);
     font-size: 130%;
-    border-radius: 3%;
+    border-radius:10px 10px 10px 10px;
     left: 0%;
     right: 0%;
     color: aqua;
@@ -19,6 +19,7 @@ html{
 
 .header a{
     color: rosybrown;
+    padding: 1%
 }
 
 .all{
@@ -74,6 +75,7 @@ table {
     right: auto;
     text-align: center;
     padding: 7%;
+    padding-top: 2%;
 }
 
 .footer{
