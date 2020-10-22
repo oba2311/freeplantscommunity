@@ -4,9 +4,10 @@ html{
 }
 
 .header{
-    background-color: green;
-    font-size: 160%;
-    /* width: 14%; */
+    padding: 1%;
+    background-color: rgba(0, 50, 50, .8);
+    font-size: 130%;
+    border-radius: 3%;
     left: 0%;
     right: 0%;
     color: aqua;
@@ -14,11 +15,15 @@ html{
 
 h1{
     direction: rtl;
+    font-family: Helvetica, sans-serif, Arial;
 }
 
 .nextEvent{
+    direction: rtl;
+    border-radius: 3%;
+    font-family: Helvetica, sans-serif, Arial;
     padding: 4%;
-    background-color: #2E7D32;
+    background-color: rgba(0, 50, 50, .4);
     max-width: 50%;
     margin-left: auto;
     margin-right: auto;
