@@ -26,6 +26,7 @@ html{
     margin: auto;
     width: 80%;
     text-align: center;
+    line-height: 200%;
 }
 
 h1{
@@ -61,6 +62,8 @@ img {
 table {
     border-collapse: collapse;
     width: 100%;
+    table-layout: fixed;
+
   }
   
   th, td {
@@ -80,4 +83,11 @@ table {
 
 .footer{
     padding: 3%;
+}
+
+.questions{
+    text-align: justify;
+    padding: 6%;
+    padding-top: 1%;
+    line-height: 200%;
 }
