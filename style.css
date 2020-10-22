@@ -4,6 +4,10 @@ html{
 }
 
 .header{
+    direction: rtl;
+    max-width: 97%;
+    margin: auto;
+    font-family: Helvetica, sans-serif, Arial;
     padding: 1%;
     background-color: rgba(0, 50, 50, .8);
     font-size: 130%;
@@ -11,6 +15,16 @@ html{
     left: 0%;
     right: 0%;
     color: aqua;
+}
+
+.header a{
+    color: rosybrown;
+}
+
+.all{
+    margin: auto;
+    width: 80%;
+    text-align: center;
 }
 
 h1{
